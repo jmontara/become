@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<firstname>John</firstname>
+	<lastname>Moore</lastname>
+	<middlename>Edward</middlename>
+	<home>NewHill</home>
+	<skill name="Pyton"/>
+	<skill name="SQL"/>
+</person>
