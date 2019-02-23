@@ -14,7 +14,7 @@ def main():
 	print(doc.nodeName)
 	print(doc.firstChild.tagName)
 	
-	# get list of XML tags and print each
+	# get list of XML tags and /print each
 	skills = doc.getElementsByTagName("skill")
 	print("%d skills: " % skills.length)
 	for skill in skills:
